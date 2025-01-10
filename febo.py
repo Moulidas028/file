@@ -1,6 +1,6 @@
 
 
-nterms = int(input("Enter Your Number :  "))
+nterms = int(input("Enter Your Num :  "))
 
 # first two terms
 n1, n2 = 0, 1
